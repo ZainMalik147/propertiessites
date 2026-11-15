@@ -1,0 +1,9 @@
+# Netlify site for Tulum Properties: set "Base directory" to "tulum" in the Netlify UI.
+[build]
+  command = "node ../build.mjs tulum"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

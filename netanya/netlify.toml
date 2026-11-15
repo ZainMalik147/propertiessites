@@ -1,0 +1,9 @@
+# Netlify site for Netanya Properties: set "Base directory" to "netanya" in the Netlify UI.
+[build]
+  command = "node ../build.mjs netanya"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

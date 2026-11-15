@@ -1,0 +1,9 @@
+# Netlify site for Abu Dhabi Properties: set "Base directory" to "abu-dhabi" in the Netlify UI.
+[build]
+  command = "node ../build.mjs abu-dhabi"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

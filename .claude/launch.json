@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "tulum", "runtimeExecutable": "node", "runtimeArgs": ["serve.mjs", "tulum", "4301"], "port": 4301 },
+    { "name": "netanya", "runtimeExecutable": "node", "runtimeArgs": ["serve.mjs", "netanya", "4302"], "port": 4302 },
+    { "name": "abu-dhabi", "runtimeExecutable": "node", "runtimeArgs": ["serve.mjs", "abu-dhabi", "4303"], "port": 4303 }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "developers": [
+    {
+      "slug": "aldar",
+      "name": "Aldar Properties",
+      "website": "https://www.aldar.com/en",
+      "summary": "An ADX-listed Abu Dhabi property group developing and managing master-planned communities across Yas Island, Saadiyat Island, Al Raha and Reem Island.",
+      "description": [
+        "Aldar Properties PJSC is a real estate developer and asset manager headquartered in Abu Dhabi and listed on the Abu Dhabi Securities Exchange. The company organises its activities around two core businesses: Aldar Development, which plans and builds residential and mixed-use communities, and Aldar Investment, which holds and operates a portfolio of commercial, retail, hospitality and education assets.",
+        "Its development arm works from a land bank of roughly 65 million square metres and concentrates on several of the capital's best-known destinations, including Yas Island, Saadiyat Island, Al Raha and Reem Island. Alongside its own projects, the group manages government housing and infrastructure programmes on a fee basis through Aldar Projects, and runs separate platforms for new ventures and for mixed-use development in Egypt. Its circular headquarters tower on Al Raha Beach has become one of the more recognisable buildings on the Abu Dhabi skyline."
+      ],
+      "areas": [
+        "Master-planned residential communities",
+        "Commercial, retail and hospitality investment",
+        "Government housing and infrastructure delivery (Aldar Projects)",
+        "Education and community services"
+      ],
+      "facts": [
+        {
+          "label": "Headquarters",
+          "value": "Aldar HQ, Al Raha Beach, Abu Dhabi"
+        },
+        {
+          "label": "Listing",
+          "value": "Abu Dhabi Securities Exchange (ADX: ALDAR)"
+        },
+        {
+          "label": "Core businesses",
+          "value": "Aldar Development and Aldar Investment"
+        },
+        {
+          "label": "Land bank",
+          "value": "c. 65 million sqm (company figure)"
+        },
+        {
+          "label": "Key destinations",
+          "value": "Yas Island, Saadiyat Island, Al Raha, Reem Island"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Saadiyat Lagoons",
+          "location": "Saadiyat Island",
+          "type": "Villa community",
+          "description": "A low-rise community of villas set among mangroves and protected natural areas on Saadiyat Island, planned with sustainability as a central theme and close to the island's schools and cultural district.",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/saadiyat-lagoons"
+        },
+        {
+          "name": "Louvre Abu Dhabi Residences",
+          "location": "Saadiyat Cultural District, Saadiyat Island",
+          "type": "Apartments",
+          "description": "A residential building beside the Louvre Abu Dhabi museum, designed to sit within the cultural district's landscape and to meet the emirate's Estidama Pearl environmental standards.",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/louvre-abu-dhabi-residences"
+        },
+        {
+          "name": "Gardenia Bay",
+          "location": "Yas Island",
+          "type": "Waterfront apartments",
+          "description": "A waterfront neighbourhood on Yas Island arranged around a landscaped promenade, combining residential buildings with shared community amenities.",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/gardenia-bay"
+        },
+        {
+          "name": "The Sustainable City Yas Island",
+          "location": "Yas Island",
+          "type": "Villas and townhouses",
+          "description": "A community planned around renewable energy, efficient water use and lower-impact building materials, bringing the sustainable-city concept to Yas Island.",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/the-sustainable-city"
+        },
+        {
+          "name": "Noya",
+          "location": "Yas Island",
+          "type": "Villas and townhouses",
+          "description": "A family-oriented villa and townhouse community on Yas Island, positioned between the island's leisure attractions and quieter open spaces.",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/noya"
+        },
+        {
+          "name": "Gate Towers and Arc Towers",
+          "location": "Reem Island",
+          "type": "High-rise apartments",
+          "description": "Three glass towers linked at the top by a sky bridge, alongside the four smaller Arc residential buildings, forming one of Reem Island's most visible residential landmarks.",
+          "url": "https://www.aldar.com/properties/en/uae/reem-island/gate"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/aldar.svg",
+        "source": "https://images1.cmp.optimizely.com/assets/logo-black/Zz0wNjA0OGJiMDVkMjQxMWYwYWYzZDBlYzc2YmI1MDFlOA==",
+        "background": "light",
+        "guidelines": "https://www.aldar.com/en/explore-aldar/aldar-brand"
+      },
+      "sources": [
+        "https://www.aldar.com/en",
+        "https://www.aldar.com/en/explore-aldar/about-aldar/story",
+        "https://www.aldar.com/en/explore-aldar/aldar-brand",
+        "https://www.aldar.com/properties/en/uae/abu-dhabi/aldar-hq/",
+        "https://www.aldar.com/properties/en/uae/saadiyat-island/saadiyat-lagoons",
+        "https://www.aldar.com/properties/en/uae/saadiyat-island/louvre-abu-dhabi-residences",
+        "https://www.aldar.com/properties/en/uae/yas-island/gardenia-bay",
+        "https://www.aldar.com/properties/en/uae/yas-island/the-sustainable-city",
+        "https://www.aldar.com/properties/en/uae/yas-island/noya",
+        "https://www.aldar.com/properties/en/uae/reem-island/gate",
+        "https://stockanalysis.com/quote/adx/ALDAR/company",
+        "https://en.wikipedia.org/wiki/Aldar_Properties"
+      ],
+      "order": 1,
+      "published": true,
+      "listingType": "editorial",
+      "images": [
+        "assets/img/aldar-hq",
+        "assets/img/louvre-abu-dhabi-canopy"
+      ]
+    },
+    {
+      "slug": "modon",
+      "name": "Modon",
+      "website": "https://www.modon.com/",
+      "summary": "An Abu Dhabi-based, ADX-listed holding company whose real estate arm is master-developing Hudayriyat Island alongside projects on Reem Island.",
+      "description": [
+        "Modon Holding is a diversified group headquartered in Abu Dhabi and listed on the Abu Dhabi Securities Exchange. It took its current name in 2024, when the listed Q Holding absorbed Modon Properties, ADNEC Group and related assets and rebranded as Modon. Its activities now span real estate, hospitality, events and tourism, asset and investment management, and urban infrastructure.",
+        "In residential property, Modon's most significant undertaking is Hudayriyat Island, where it is creating a series of waterfront and hillside neighbourhoods around public leisure facilities such as cycling and mountain-bike trails, beach areas and sports venues. The group is also active on Reem Island and elsewhere in the capital, and it operates or manages destinations including Al Mugheirah Bay, Marsana and the Bab Al Nojoum resorts, as well as projects outside the UAE. According to the company, its residential projects in investment zones such as Hudayriyat Island and Al Reem Island are offered on a freehold basis to buyers of all nationalities."
+      ],
+      "areas": [
+        "Hudayriyat Island master development",
+        "Residential communities on Reem Island",
+        "Hospitality and leisure destinations",
+        "Events, catering and tourism",
+        "Asset management and urban infrastructure"
+      ],
+      "facts": [
+        {
+          "label": "Headquarters",
+          "value": "Abu Dhabi, UAE"
+        },
+        {
+          "label": "Listing",
+          "value": "Abu Dhabi Securities Exchange (ADX)"
+        },
+        {
+          "label": "Current identity",
+          "value": "Q Holding renamed Modon Holding in 2024 after consolidating Modon Properties and ADNEC Group"
+        },
+        {
+          "label": "Business sectors",
+          "value": "Real estate, hospitality, events & tourism, asset & investment management, infrastructure"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Bashayer",
+          "location": "Hudayriyat Island",
+          "type": "Villas, apartments and townhomes",
+          "description": "A waterfront neighbourhood on the north side of Hudayriyat Island that pairs a gated villa enclave with a separate collection of apartments, penthouses and townhomes facing the city skyline.",
+          "url": "https://www.modon.com/real-estate/bashayer"
+        },
+        {
+          "name": "Nawayef Village",
+          "location": "Hudayriyat Island",
+          "type": "Townhouses and twin villas",
+          "description": "A gated community of Tuscan-influenced townhouses and twin villas set between Hudayriyat's West and East Hills, with parks, retail and a boutique cinema nearby.",
+          "url": "https://www.modon.com/real-estate/nawayef-village"
+        },
+        {
+          "name": "Nawayef Park Views",
+          "location": "Hudayriyat Island",
+          "type": "Apartments",
+          "description": "Mediterranean-styled apartment buildings among the Nawayef Hills, arranged around park-facing terraces and an adjoining souq plaza.",
+          "url": "https://www.modon.com/real-estate/nawayef-parkviews"
+        },
+        {
+          "name": "Al Naseem Community",
+          "location": "Hudayriyat Island",
+          "type": "Villas",
+          "description": "A neighbourhood of large detached villas near the island's shoreline, offered with a choice of South Californian or modern contemporary facades.",
+          "url": "https://www.modon.com/real-estate/al-naseem-community"
+        },
+        {
+          "name": "Wadeem Gardens",
+          "location": "Hudayriyat Island",
+          "type": "Villas",
+          "description": "The villa core of a new coastal district on Hudayriyat, laid out along a central spine that links homes with schools, hospitality, retail and sports facilities.",
+          "url": "https://www.modon.com/real-estate/wadeem-gardens"
+        },
+        {
+          "name": "Tara Park",
+          "location": "Reem Island",
+          "type": "Apartments",
+          "description": "An apartment community on Reem Island built around landscaped podiums and walkable open spaces, opposite Reem Mall and close to Al Fay Park.",
+          "url": "https://www.modon.com/real-estate/tara-park"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/modon.svg",
+        "source": "https://www.modon.com/images/modoncorporatelibraries/about-us/modon-logo8e0386b4-26f6-44a0-95a8-634904fd208c.svg?sfvrsn=fdf072ec_0",
+        "background": "dark",
+        "guidelines": "none found (media centre: https://www.modon.com/media-centre)",
+        "alternate": {
+          "file": "assets/logos/modon-black.png",
+          "source": "https://www.modon.com/images/modoncorporatelibraries/about-us/modon-logo-black5ea80736-1364-498f-afbd-9d3d1d086356.png?sfvrsn=ff9d88d7_3",
+          "background": "light",
+          "note": "small (163x31 px) dark version from the same site"
+        }
+      },
+      "sources": [
+        "https://www.modon.com/",
+        "https://www.modon.com/about-modon/about-us",
+        "https://www.modon.com/investor-relations",
+        "https://www.modon.com/real-estate",
+        "https://www.modon.com/real-estate/bashayer",
+        "https://www.modon.com/real-estate/nawayef-village",
+        "https://www.modon.com/real-estate/nawayef-parkviews",
+        "https://www.modon.com/real-estate/al-naseem-community",
+        "https://www.modon.com/real-estate/wadeem-gardens",
+        "https://www.modon.com/real-estate/tara-park",
+        "https://gulfnews.com/business/property/abu-dhabis-q-holding-completes-ambitious-real-estate-consolidation-with-adq-ihc-1.1709093268676",
+        "https://www.adq.ae/newsroom/adq-and-ihc-capital-offer-to-combine-their-shareholdings-in-modon-along-with-adqs-shareholding-in-adnec-group-into-q-holding-to-create-a-regional-leader-across-real-estate-events-and-hospitality"
+      ],
+      "order": 2,
+      "published": true,
+      "listingType": "editorial",
+      "images": [
+        "assets/img/corniche-night",
+        "assets/img/saadiyat-beach"
+      ]
+    },
+    {
+      "slug": "bloom",
+      "name": "Bloom Holding",
+      "website": "https://bloomholding.com/",
+      "summary": "An Abu Dhabi developer and services group, part of National Holding, best known for the Bloom Living community in Zayed City and the Bloom Gardens neighbourhood.",
+      "description": [
+        "Bloom Holding is an Abu Dhabi-based group that combines property development with education, hospitality, landscaping and facilities management. It forms part of the National Holding group, and its offices are at Bloom Central on Airport Road. The company has been active in the capital since the late 2000s, with a portfolio that now includes gated villa communities, mixed-use buildings and serviced residences in Abu Dhabi, as well as projects in Dubai and Al Ain.",
+        "Its largest residential undertaking is Bloom Living in Zayed City, a Spanish- and Mediterranean-inspired community planned across about 2.2 million square metres with more than 4,500 homes, a town centre, parks and schools, released over successive phases. Earlier work includes Bloom Gardens on the Eastern Mangrove Corniche, the Soho Square and Park View buildings on Saadiyat Island, and Bloom Marina at Al Bateen. Through Bloom Education, the group is also linked to several international schools in the UAE."
+      ],
+      "areas": [
+        "Master-planned residential communities",
+        "Mixed-use and waterfront developments",
+        "Education (Bloom Education)",
+        "Hospitality, landscaping and facilities management"
+      ],
+      "facts": [
+        {
+          "label": "Offices",
+          "value": "Bloom Central, Airport Road, Abu Dhabi"
+        },
+        {
+          "label": "Group",
+          "value": "Part of National Holding"
+        },
+        {
+          "label": "Business lines",
+          "value": "Properties, Education, Hospitality, Landscape, Facilities Management"
+        },
+        {
+          "label": "Flagship community",
+          "value": "Bloom Living, Zayed City: c. 2.2 million sqm, 4,500+ homes planned (company figures)"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Bloom Living",
+          "location": "Zayed City",
+          "type": "Villas, townhouses and apartments",
+          "description": "A large master-planned community in Spanish-Mediterranean style near Zayed International Airport, organised around a lake, linked parks, a clubhouse and a town centre, and released in named phases.",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living"
+        },
+        {
+          "name": "Bloom Gardens",
+          "location": "Eastern Mangrove Corniche",
+          "type": "Villas and townhouses",
+          "description": "An established gated community of more than 700 homes with Mediterranean-patterned streetscapes, near Brighton College Abu Dhabi and the Abu Dhabi-Dubai highway.",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-gardens"
+        },
+        {
+          "name": "Aldhay",
+          "location": "Bloom Gardens, Eastern Mangrove Corniche",
+          "type": "Townhouses",
+          "description": "A townhouse enclave of 181 homes within Bloom Gardens, close to Corniche Al Gurm and Khalifa Park.",
+          "url": "https://bloomholding.com/what-we-do/properties/aldhay"
+        },
+        {
+          "name": "Soho Square",
+          "location": "Saadiyat Island",
+          "type": "Apartments, townhouses and penthouses",
+          "description": "A mixed-use development of 304 residences on Saadiyat Island, ranging from studios to penthouses, with shared pool and fitness facilities.",
+          "url": "https://bloomholding.com/what-we-do/properties/soho-square"
+        },
+        {
+          "name": "Park View",
+          "location": "Saadiyat Island",
+          "type": "Apartments and hotel apartments",
+          "description": "Two residential towers opposite New York University Abu Dhabi, joined by a bridge that carries an elevated infinity pool.",
+          "url": "https://bloomholding.com/what-we-do/properties/park-view"
+        },
+        {
+          "name": "Bloom Marina",
+          "location": "Al Bateen",
+          "type": "Waterfront apartments and serviced residences",
+          "description": "A waterfront development overlooking Al Bateen Marina that combines two residential buildings with serviced apartments and the Abu Dhabi EDITION hotel.",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-marina"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/bloom.svg",
+        "source": "https://bloomholding.com/ (inline <svg> in site header)",
+        "background": "light",
+        "guidelines": "none found"
+      },
+      "sources": [
+        "https://bloomholding.com/",
+        "https://bloomholding.com/who-we-are",
+        "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "https://bloomholding.com/what-we-do/properties/bloom-gardens",
+        "https://bloomholding.com/what-we-do/properties/aldhay",
+        "https://bloomholding.com/what-we-do/properties/soho-square",
+        "https://bloomholding.com/what-we-do/properties/park-view",
+        "https://bloomholding.com/what-we-do/properties/bloom-marina",
+        "https://en.wikipedia.org/wiki/Bloom_Holding"
+      ],
+      "order": 3,
+      "published": true,
+      "listingType": "editorial",
+      "images": [
+        "assets/img/al-reem-island-sunset",
+        "assets/img/yas-links-golf"
+      ]
+    },
+    {
+      "slug": "reportage",
+      "name": "Reportage Group",
+      "website": "https://reportagegroup.com/",
+      "summary": "An Abu Dhabi-headquartered developer founded in 2014, building apartment and community projects on Reem, Yas and Saadiyat islands and in Masdar City, with a growing international footprint.",
+      "description": [
+        "Reportage Group, also known as Reportage Properties, is a real estate developer founded in 2014 and headquartered in Abu Dhabi. It builds both residential apartment buildings and residential communities, and has expanded from its home market into a wide range of countries; its website currently lists 19, spanning the Gulf, Africa, Europe, Asia and the United States.",
+        "In Abu Dhabi, the company has concentrated on the capital's main growth districts. Its work includes high-rise residences on Al Reem Island, canal-side projects in the Yas Bay area of Yas Island, low-rise sustainable buildings in Masdar City and a newer development on Saadiyat Island. The portfolio is presented in two lines, residential apartments and residential communities, and the group also markets projects elsewhere in the UAE, including Dubai and Fujairah, as well as in Riyadh. Taken together, its Abu Dhabi projects lean towards mid-rise and high-rise apartment living in established island and sustainability-led districts."
+      ],
+      "areas": [
+        "Residential apartment buildings",
+        "Residential communities",
+        "Masdar City sustainable housing",
+        "International development"
+      ],
+      "facts": [
+        {
+          "label": "Founded",
+          "value": "2014"
+        },
+        {
+          "label": "Headquarters",
+          "value": "Abu Dhabi, UAE"
+        },
+        {
+          "label": "Countries listed on official site",
+          "value": "19"
+        },
+        {
+          "label": "Product lines",
+          "value": "Residential apartments and residential communities"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Marlin Icon",
+          "location": "Al Reem Island",
+          "type": "Apartments and duplexes",
+          "description": "A canal-facing residential building on Al Reem Island with one- to four-bedroom homes, including duplex units, designed with soft, curving architectural forms.",
+          "url": "https://reportagegroup.com/projects/residential-apartments/marlin-icon/"
+        },
+        {
+          "name": "The District",
+          "location": "Al Reem Island",
+          "type": "High-rise apartments",
+          "description": "A vertical, mixed-use community on Al Reem Island that places offices, a medical centre, a hypermarket and fitness facilities alongside its residential towers.",
+          "url": "https://reportagegroup.com/projects/residential-apartments/the-district/"
+        },
+        {
+          "name": "Selina Bay",
+          "location": "Yas Island (Yas Bay area)",
+          "type": "Apartments and townhouses",
+          "description": "A canal-side collection of apartments and townhouses near the Yas Bay waterfront and the island's leisure attractions.",
+          "url": "https://reportagegroup.com/projects/residential-apartments/selina-bay/"
+        },
+        {
+          "name": "Sensi",
+          "location": "Saadiyat Island",
+          "type": "Residential community",
+          "description": "A newer Reportage residential project on Saadiyat Island, positioned around the island's beaches and cultural institutions.",
+          "url": "https://reportagegroup.com/projects/residential-communities/sensi/"
+        },
+        {
+          "name": "Oasis Residences 2",
+          "location": "Masdar City",
+          "type": "Apartments",
+          "description": "A six-storey building of 304 apartments, including duplex layouts, located at the centre of Masdar City next to My City Centre Masdar.",
+          "url": "https://reportagegroup.com/projects/residential-apartments/oasis-residences-two/"
+        },
+        {
+          "name": "Sila",
+          "location": "Masdar City",
+          "type": "Residential community",
+          "description": "A residential concept shaped by Masdar City's low-carbon, walkable planning principles, linking homes with landscaped public spaces.",
+          "url": "https://reportagegroup.com/projects/residential-communities/sila/"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/reportage.png",
+        "source": "https://reportagegroup.com/wp-content/uploads/ReportageLogo_200x31px.png",
+        "background": "light",
+        "guidelines": "none found (media centre: https://reportagegroup.com/media-center/)",
+        "alternate": {
+          "file": "assets/logos/reportage-white.svg",
+          "source": "https://reportagegroup.com/wp-content/uploads/white-reportage-logo.svg",
+          "background": "dark",
+          "note": "vector version, white wordmark with yellow dot"
+        }
+      },
+      "sources": [
+        "https://reportagegroup.com/",
+        "https://reportagegroup.com/about/",
+        "https://reportagegroup.com/location/uae/",
+        "https://reportagegroup.com/projects/residential-apartments/marlin-icon/",
+        "https://reportagegroup.com/projects/residential-apartments/the-district/",
+        "https://reportagegroup.com/projects/residential-apartments/selina-bay/",
+        "https://reportagegroup.com/projects/residential-communities/sensi/",
+        "https://reportagegroup.com/projects/residential-apartments/oasis-residences-two/",
+        "https://reportagegroup.com/projects/residential-communities/sila/"
+      ],
+      "order": 4,
+      "published": true,
+      "listingType": "editorial",
+      "images": [
+        "assets/img/yas-bay-aerial",
+        "assets/img/al-reem-island-towers"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/img/abu-dhabi-skyline-night",
+      "subject": "Abu Dhabi skyline at night with Etihad Towers and Emirates Palace",
+      "author": "Darthjipsu",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Abu_Dhabi_by_night.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/abu-dhabi-skyline-marina",
+      "subject": "Abu Dhabi skyline by day from the Breakwater marina",
+      "author": "Raganesh",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_from_Breakwaters_Marina.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/corniche-night",
+      "subject": "Abu Dhabi Corniche towers reflected in the water at night",
+      "author": "BlueEarthPhoto",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Corniche_by_night.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/louvre-abu-dhabi-canopy",
+      "subject": "Louvre Abu Dhabi: dome canopy and 'rain of light' over the water plaza, Saadiyat Island",
+      "author": "Francesco Bini",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Louvre_abu_dhabi,_interno,_cortile_coperto_02.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/louvre-abu-dhabi-water",
+      "subject": "Louvre Abu Dhabi: white galleries and water beneath the latticed dome",
+      "author": "Francisco Anzola",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Water_Under_The_Canopy_(250155755).jpeg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/saadiyat-beach",
+      "subject": "Beach and shoreline on Saadiyat Island",
+      "author": "Tms2007",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tranquility_at_Jumeirah_Saadiyat_Island.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/yas-bay-aerial",
+      "subject": "Aerial view of the Yas Bay waterfront, Yas Island",
+      "author": "Oleg Yunakov",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yas_Bay_Waterfront,_Yas_Island,_Abu_Dhabi.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/yas-links-golf",
+      "subject": "Golf course and mangrove-lined water on Yas Island",
+      "author": "Tashmetova808",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Golf_club,_Yas_island,_Abu_Dhabi_city,_UAE.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/al-reem-island-sunset",
+      "subject": "Al Reem Island towers above the mangroves at sunset",
+      "author": "Sa7er90",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Al_reem_island.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/al-reem-island-towers",
+      "subject": "Al Reem Island towers seen across the mangroves from mainland Abu Dhabi",
+      "author": "SpongistBuffoonist",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Urban_Horizons.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/aldar-hq",
+      "subject": "Aldar Headquarters, the circular tower at Al Raha Beach",
+      "author": "FritzDaCat",
+      "license": "CC BY-SA 3.0",
+      "source": "https://en.wikipedia.org/wiki/File:Aldar_Headquarters_Building.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/grand-mosque-prayer-hall",
+      "subject": "Sheikh Zayed Grand Mosque: prayer hall columns, arches and chandelier",
+      "author": "Francesco Bini",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abu_dhabi,_Moschea_dello_Sceicco_Zayed,_aula_di_preghiera,_01.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/grand-mosque-ceiling",
+      "subject": "Sheikh Zayed Grand Mosque: carved floral ceiling detail",
+      "author": "Francesco Bini",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abu_dhabi,_Moschea_dello_Sceicco_Zayed,_atrio_meridionale,_volta_02.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/liwa-desert-dunes",
+      "subject": "Sand dunes in the Liwa desert, Abu Dhabi emirate",
+      "author": "ShiluGeo1PU",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Liwa_desert.jpg",
+      "orientation": "landscape"
+    }
+  ]
+}

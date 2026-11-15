@@ -1,0 +1,439 @@
+{
+  "developers": [
+    {
+      "slug": "azorim",
+      "name": "Azorim",
+      "website": "https://www.azorim.co.il/en",
+      "summary": "Azorim is a Tel Aviv Stock Exchange-listed residential developer that has been building homes across Israel for around six decades.",
+      "description": [
+        "Azorim is one of Israel's longest-established residential developers, with a track record that stretches back to the mid-1960s. The company is publicly traded on the Tel Aviv Stock Exchange and is chaired by its owner, Hershey Friedman. Its portfolio covers new-build neighbourhoods and towers in cities including Jerusalem, Tel Aviv, Haifa, Bat Yam and Be'er Sheva, alongside a dedicated urban renewal division and a rental arm.",
+        "Netanya is one of the company's most active markets. In the Park HaYam district near the southern beaches it is delivering the Hofim towers, while in the city's north it has a cluster of multi-tower schemes around Weizmann, Sokolov, HaRav Kook and HaHistadrut streets. These projects typically combine high-rise apartment buildings with shared amenities such as residents' lounges, gyms and landscaped open space. Taken together, they give Azorim one of the larger new-build footprints among developers currently active in the city."
+      ],
+      "areas": [
+        "New-build residential towers",
+        "Urban renewal",
+        "Rental housing (Azorim Living)",
+        "Coastal neighbourhoods in central Israel"
+      ],
+      "facts": [
+        {
+          "label": "Founded",
+          "value": "1964"
+        },
+        {
+          "label": "Headquarters",
+          "value": "Tel Aviv"
+        },
+        {
+          "label": "Listed on TASE",
+          "value": "Yes (AZRM)"
+        },
+        {
+          "label": "Chairman",
+          "value": "Hershey Friedman (owner)"
+        },
+        {
+          "label": "Focus",
+          "value": "Residential development and urban renewal"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Azorim Hofim EAST",
+          "location": "Park HaYam, Netanya",
+          "type": "Residential towers",
+          "description": "Two 22-storey towers in the developing Park HaYam neighbourhood, a short walk from the beach and next to a large urban park.",
+          "url": "https://www.azorim.co.il/en/projects/azorim-hofim-east-netanya/"
+        },
+        {
+          "name": "Azorim Hofim WEST",
+          "location": "Park HaYam, Netanya",
+          "type": "Residential tower",
+          "description": "A single high-rise on the western edge of Park HaYam, the row of towers closest to the shoreline, with a residents' lounge, gym and private garden.",
+          "url": "https://www.azorim.co.il/en/projects/azorim-hofim-netanya/"
+        },
+        {
+          "name": "N Sokolov",
+          "location": "Corner of Weizmann and Sokolov streets, north Netanya",
+          "type": "Residential towers",
+          "description": "Three 24-storey towers with roughly 264 homes, from three-room flats to penthouses, plus shared facilities including a gym and music room.",
+          "url": "https://www.azorim.co.il/en/projects/n-sokolov-netanya/"
+        },
+        {
+          "name": "N Weizman",
+          "location": "Weizmann Street, north Netanya",
+          "type": "Residential towers",
+          "description": "Three towers linked by landscaped green space, offering three- to five-room apartments and penthouses close to the sea and the Einstein interchange.",
+          "url": "https://www.azorim.co.il/en/projects/n-weizman-netanya/"
+        },
+        {
+          "name": "N HaHistadrut",
+          "location": "Corner of HaRav Kook and HaHistadrut streets, north Netanya",
+          "type": "Residential buildings",
+          "description": "A three-building development near the city centre and train station, with communal workspaces, a residents' club and a park beneath the buildings.",
+          "url": "https://www.azorim.co.il/en/projects/hahistadrut-netanya/"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/azorim.png",
+        "source": "https://www.azorim.co.il/wp-content/uploads/2023/07/LOGO-AZORIM_ENG_TOP.png",
+        "background": "light",
+        "guidelines": "none found",
+        "note": "Official header lockup: Azorim mark plus 'Hershey Friedman's Group' (HF) mark side by side, 1772x472 PNG, transparent background. No standalone or SVG version found in the site header."
+      },
+      "sources": [
+        "https://www.azorim.co.il/en",
+        "https://www.azorim.co.il/en/about/",
+        "https://www.azorim.co.il/en/projects-main/",
+        "https://www.azorim.co.il/en/projects/azorim-hofim-east-netanya/",
+        "https://www.azorim.co.il/en/projects/azorim-hofim-netanya/",
+        "https://www.azorim.co.il/en/projects/n-sokolov-netanya/",
+        "https://www.azorim.co.il/en/projects/n-weizman-netanya/",
+        "https://www.azorim.co.il/en/projects/hahistadrut-netanya/",
+        "https://www.duns100.co.il/en/Azorim_Investments_in_Development_and_Construction_Company_Ltd",
+        "https://stockanalysis.com/quote/tlv/AZRM/company/",
+        "https://www.tradingview.com/symbols/TASE-AZRM"
+      ]
+    },
+    {
+      "slug": "aura",
+      "name": "Aura Israel",
+      "website": "https://auraisrael.co.il/",
+      "summary": "Aura is a Tel Aviv Stock Exchange-listed developer that concentrates on urban renewal, replacing ageing housing blocks with new residential districts.",
+      "description": [
+        "Aura Israel, whose listed entity trades on the Tel Aviv Stock Exchange as Aura Investments, was founded and is run by its controlling shareholder, lawyer Yaacov Atrakchi. The company presents itself primarily as an urban renewal specialist, working with owners of older buildings to demolish and rebuild them at higher density under pinui-binui and similar schemes, while also developing some new neighbourhoods.",
+        "Its pipeline is spread across the country, from Haifa and the Krayot in the north to Jerusalem, the Tel Aviv metropolitan area and the south. In Netanya, Aura is behind one of the city's largest renewal plans: a multi-building redevelopment along Ben Zvi Street, branded AURA THE STRIP, which pairs new residential towers with commercial space and public facilities within walking distance of the beach. As with most renewal schemes, its timetable depends on planning approvals and agreement among existing owners."
+      ],
+      "areas": [
+        "Urban renewal (pinui-binui)",
+        "Large-scale residential redevelopment",
+        "New residential neighbourhoods",
+        "Mixed-use projects with commercial space"
+      ],
+      "facts": [
+        {
+          "label": "Listed on TASE",
+          "value": "Yes (AURA)"
+        },
+        {
+          "label": "Founder and CEO",
+          "value": "Adv. Yaacov Atrakchi (controlling shareholder)"
+        },
+        {
+          "label": "Focus",
+          "value": "Urban renewal"
+        },
+        {
+          "label": "Netanya flagship",
+          "value": "AURA THE STRIP, Ben Zvi Street"
+        }
+      ],
+      "projects": [
+        {
+          "name": "AURA THE STRIP (Netanya Ben Tzvi)",
+          "location": "Ben Zvi Street, central Netanya",
+          "type": "Urban renewal (pinui-binui)",
+          "description": "A redevelopment of about 30 dunams bounded by Ben Zvi, Shmorak, Simcha Erlich and Greenbaum streets, planned as 11 buildings of 10 to 40 floors with commercial space, schools and a park. Aura describes it as the largest pinui-binui project in Netanya.",
+          "url": "https://auraisrael.co.il/en/project/netanya-ben-tzvi/"
+        },
+        {
+          "name": "Aura City Hadera",
+          "location": "Herbert Samuel / Sheshet HaYamim, Hadera city centre",
+          "type": "Residential towers with commercial base",
+          "description": "Four towers of 23 to 26 floors in central Hadera, with office and retail floors at street level.",
+          "url": "https://auraisrael.co.il/en/project/aura-city-hadera/"
+        },
+        {
+          "name": "Aura Jerusalem",
+          "location": "Talpiot, Jerusalem",
+          "type": "Urban renewal",
+          "description": "A three-building renewal scheme on Hebron Road in Talpiot that replaces older housing and adds employment, commercial and public space.",
+          "url": "https://auraisrael.co.il/en/project/aura-jerusalem/"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/aura.svg",
+        "source": "https://auraisrael.co.il/wp-content/uploads/2022/07/33Asset-1.svg",
+        "background": "dark",
+        "guidelines": "none found",
+        "note": "White wordmark with yellow sun mark; used in the site header over imagery. Will be invisible on white."
+      },
+      "sources": [
+        "https://auraisrael.co.il/",
+        "https://auraisrael.co.il/en/about-us/",
+        "https://auraisrael.co.il/en/projects/",
+        "https://auraisrael.co.il/en/project/netanya-ben-tzvi/",
+        "https://auraisrael.co.il/en/project/aura-city-hadera/",
+        "https://auraisrael.co.il/en/project/aura-jerusalem/",
+        "https://en.globes.co.il/en/article-aura-to-build-500-homes-in-herzliya-1001155767",
+        "https://stockanalysis.com/quote/tlv/AURA/company/",
+        "https://www.duns100.co.il/en/Aura_Israel_Development_and_Investments_Ltd"
+      ]
+    },
+    {
+      "slug": "africa-israel",
+      "name": "Africa Israel Residences",
+      "website": "https://res.afi-g.com/en/pages/home.aspx",
+      "summary": "Africa Israel Residences is the TASE-listed homebuilding arm of the Africa Israel group, known for its Savyonim-branded residential communities.",
+      "description": [
+        "Africa Israel Residences develops and builds housing across Israel and is controlled by Africa Israel Investments. Its shares trade on the Tel Aviv Stock Exchange. Much of its output is marketed under the Savyonim name, a brand that traces back to the company's first neighbourhood in the town of Savyon and is applied to planned communities that include green space and local services alongside the apartments. An urban renewal subsidiary, Africa Urban Renewal, handles redevelopment schemes.",
+        "Netanya has been a recurring location for the company. Earlier completed projects include Savyoney Netanya and SKY Ir Yamim, followed by the Savion at the Lake tower in the Agamim area and the four-tower Savyon City Towers urban renewal scheme in the city centre. Current activity focuses on the west of the city, with Savyon Gardens in Park HaYam and Savyoney Hashmura near Ir Yamim, both close to the coastal parks and nature reserves on that side of Netanya."
+      ],
+      "areas": [
+        "Savyonim-branded residential communities",
+        "Urban renewal (Africa Urban Renewal)",
+        "High-rise coastal housing",
+        "Projects across central Israel, Jerusalem and the north"
+      ],
+      "facts": [
+        {
+          "label": "Parent group",
+          "value": "Africa Israel Investments (controlling shareholder)"
+        },
+        {
+          "label": "Listed on TASE",
+          "value": "Yes (AFRE)"
+        },
+        {
+          "label": "Headquarters",
+          "value": "Or Yehuda"
+        },
+        {
+          "label": "Brand",
+          "value": "Savyonim neighbourhoods"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Savyon Gardens",
+          "location": "Park HaYam, Netanya",
+          "type": "Residential tower",
+          "description": "A plus-shaped tower surrounded by four themed gardens, designed so apartments avoid shared walls and have three exposures; close to the promenade and city centre.",
+          "url": "https://res.afi-g.com/en/cities/Netanya/savyon-gardens/Pages/default.aspx"
+        },
+        {
+          "name": "Savyoney Hashmura",
+          "location": "Near Ir Yamim, west Netanya",
+          "type": "Residential towers (Africa Urban Renewal)",
+          "description": "Four 22-storey towers with residents' clubs, near the Iris nature reserve, Ir Yamim Mall and Highway 2.",
+          "url": "https://res.afi-g.com/en/cities/Netanya/savyoney-hashmura/Pages/default.aspx"
+        },
+        {
+          "name": "Savyon City Towers",
+          "location": "Borochov / Andrius / HaRav Kook streets, central Netanya",
+          "type": "Urban renewal, residential towers",
+          "description": "Four towers of 24 and 26 storeys designed by architect Haimi Schneider, close to the northern promenade.",
+          "url": "https://res.afi-g.com/en/cities/Netanya/savyon_city_towers/Pages/default.aspx"
+        },
+        {
+          "name": "Savion at the Lake",
+          "location": "Agamim, west Netanya",
+          "type": "Residential tower",
+          "description": "A 29-storey tower by Tishbi Rozio Architects beside the winter pond reserve, with all apartments facing west towards the sea.",
+          "url": "https://res.afi-g.com/en/cities/Netanya/savyonbaagam/Pages/default.aspx"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/africa-israel.png",
+        "source": "https://res.afi-g.com/_layouts/15/AFIResidence/1033/Img/afi-logo-en-clear197X39.png",
+        "background": "dark",
+        "guidelines": "none found",
+        "note": "197x39 PNG from the official English header (file name 'clear'). 'RESIDENCES' and the mark are white and 'AFI' is black, so it is meant to sit on a mid-tone or photo header and reads poorly on both plain white and plain black. Retrieved via Wayback Machine capture (20260408) of the official URL because res.afi-g.com refused connections from this environment."
+      },
+      "sources": [
+        "https://res.afi-g.com/en/pages/home.aspx (via web.archive.org/web/20260607142804)",
+        "https://res.afi-g.com/en/about/Pages/SavyonimNeighborhoods.aspx (via Wayback 20260607)",
+        "https://res.afi-g.com/en/cities/Netanya/savyon-gardens/Pages/default.aspx (via Wayback 20260607)",
+        "https://res.afi-g.com/en/cities/Netanya/savyoney-hashmura/Pages/default.aspx (via Wayback 20260516)",
+        "https://res.afi-g.com/en/cities/Netanya/savyon_city_towers/Pages/default.aspx (via Wayback 20260720)",
+        "https://res.afi-g.com/en/cities/Netanya/savyonbaagam/Pages/default.aspx (via Wayback 20260314)",
+        "https://stockanalysis.com/quote/tlv/AFRE/company/",
+        "https://simplywall.st/stocks/il/real-estate-management-and-development/tase-afre/africa-israel-residences-shares/information",
+        "https://en.globes.co.il/en/article-1001458162"
+      ]
+    },
+    {
+      "slug": "ashtrom",
+      "name": "Ashtrom Residences",
+      "website": "https://www.ashtromegurim.co.il/en",
+      "summary": "Ashtrom Residences, formerly Ashdar, is the wholly owned residential development arm of the TASE-listed Ashtrom Group.",
+      "description": [
+        "Ashtrom Residences is the homebuilding subsidiary of Ashtrom Group, one of Israel's largest construction and real estate groups, whose shares trade on the Tel Aviv Stock Exchange. The company operated for decades as Ashdar before being rebranded under the parent group's name, and it reports more than 40 years of experience planning and building residential projects. It is led by CEO Arnon Friedman.",
+        "Its activity spans standard new-build projects, combination deals with landowners and a large urban renewal programme covering both pinui-binui and NOP 38 schemes in major cities. In Netanya the company is developing Galei Netanya in the Park HaYam district, a two-tower project designed by Mann-Shinar Architects close to the beach and a green park. Elsewhere in central Israel it is active in Tel Aviv-Jaffa, Ramat HaSharon and Givat Shmuel, among other cities, often working with external architecture firms on each scheme."
+      ],
+      "areas": [
+        "New-build residential projects",
+        "Urban renewal (pinui-binui and NOP 38)",
+        "Combination transactions with landowners",
+        "Central Israel and major cities nationwide"
+      ],
+      "facts": [
+        {
+          "label": "Parent group",
+          "value": "Ashtrom Group (wholly owned)"
+        },
+        {
+          "label": "Listed on TASE",
+          "value": "Via parent Ashtrom Group"
+        },
+        {
+          "label": "Former name",
+          "value": "Ashdar"
+        },
+        {
+          "label": "Experience",
+          "value": "40+ years in residential development"
+        },
+        {
+          "label": "CEO",
+          "value": "Arnon Friedman (since 2008)"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Galei Netanya",
+          "location": "Park HaYam, Netanya",
+          "type": "Residential towers",
+          "description": "Two towers of 19 and 20 floors with 152 apartments, designed by Mann-Shinar Architects, with sea or park views and walking access to the beach.",
+          "url": "https://www.ashtromegurim.co.il/en/projects/galei-netanya"
+        },
+        {
+          "name": "GO YAFO TEL-AVIV",
+          "location": "Heinrich Heine Road, Jaffa, Tel Aviv-Jaffa",
+          "type": "Residential towers (with Acro Real Estate)",
+          "description": "Five towers of 15 to 17 floors by Raleigh Levitzki Kasif near Jerusalem Boulevard, with a commercial floor and residents' country club.",
+          "url": "https://www.ashtromegurim.co.il/en/projects/go-jaffa-tel-aviv"
+        },
+        {
+          "name": "Ramat HaSharon Resort Strip",
+          "location": "Neve Gan, Ramat HaSharon",
+          "type": "Residential buildings",
+          "description": "Eight low- and mid-rise buildings on two adjacent plots, planned by Uri Zarubavel with only two or three apartments per floor.",
+          "url": "https://www.ashtromegurim.co.il/en/projects/ramat-hasharon-resort-strip"
+        },
+        {
+          "name": "HADAR Givat Shmuel",
+          "location": "Ramat Hadar, Givat Shmuel",
+          "type": "Residential buildings",
+          "description": "A 21-storey tower and an 8-storey boutique building with 122 homes, designed by Hook Architects.",
+          "url": "https://www.ashtromegurim.co.il/en/projects/hadar-givat-shmuel"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/ashtrom.svg",
+        "source": "https://cdn-cms2.ashtrom.co.il/media/canda1v0/133004_a_ashtrom_megurim_desktop_heb-2.svg",
+        "background": "light",
+        "guidelines": "none found",
+        "note": "Header logo of the Hebrew homepage (Hebrew lettering, blue/beige/near-black). The English header logo (https://cdn-cms2.ashtrom.co.il/media/shpjwuwp/133004_a_ashtrom_residences_desktop.svg) could not be fetched: the site and its CDN return HTTP 403 to this environment and the file is not archived. This SVG was retrieved unchanged from the Wayback Machine capture (20260611) of the official CDN URL."
+      },
+      "sources": [
+        "https://www.ashtromegurim.co.il/en (via web.archive.org/web/20261005172430)",
+        "https://www.ashtromegurim.co.il/en/about (via Wayback 20260514)",
+        "https://www.ashtromegurim.co.il/en/projects/galei-netanya (via Wayback 20260611)",
+        "https://www.ashtromegurim.co.il/en/projects/go-jaffa-tel-aviv (via Wayback 20260417)",
+        "https://www.ashtromegurim.co.il/en/projects/ramat-hasharon-resort-strip (via Wayback 20260417)",
+        "https://www.ashtromegurim.co.il/en/projects/hadar-givat-shmuel (via Wayback 20260514)",
+        "https://en.globes.co.il/en/article-1001512321",
+        "https://www.duns100.co.il/en/Ashtrom_Residences"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/img/netanya-cliffs-aerial",
+      "subject": "Aerial view of Netanya's sandstone cliffs and coastal towers above the Mediterranean",
+      "author": "Eldar Eldadi (אלדר אלדדי)",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_cliffs.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-coastline-aerial",
+      "subject": "Aerial view of the Netanya coastline, cliffs and beachfront promenade",
+      "author": "Israel_photo_gallery",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_Beach_Promende_-_aerial_view.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-skyline-coast",
+      "subject": "Netanya skyline with residential towers along the coast",
+      "author": "James Emery from Douglasville, United States",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_skyline_-_hoyasmeg_(cropped).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/ir-yamim-aerial",
+      "subject": "Aerial view of the Ir Yamim area of south Netanya with towers by the sea",
+      "author": "Lev.Tsimbler",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%94%D7%90%D7%95%D7%99%D7%A8_%D7%A9%D7%9C_%D7%A0%D7%AA%D7%A0%D7%99%D7%94_-_%D7%A2%D7%99%D7%A8_%D7%99%D7%9E%D7%99%D7%9D_02.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/south-netanya-aerial",
+      "subject": "Aerial view of south Netanya neighborhoods and the coastline",
+      "author": "Lev.Tsimbler",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:02_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%94%D7%90%D7%95%D7%99%D7%A8_%D7%A9%D7%9C_%D7%93%D7%A8%D7%95%D7%9D_%D7%A0%D7%AA%D7%A0%D7%99%D7%94.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/ir-yamim-towers",
+      "subject": "Residential towers under construction in the Ir Yamim area, Netanya",
+      "author": "Ariel12345",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Iryamim.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-sunset-sea",
+      "subject": "Sunset over the Mediterranean Sea seen from Netanya",
+      "author": "James Emery from Douglasville, United States",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_Sunset_over_Mediterranean_Sea_0529_(494400257).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-sunset-aerial",
+      "subject": "Aerial view of Netanya at sunset",
+      "author": "דוידי ורדי",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:94778_sunset_in_netanya_15223_PikiWiki_Israel.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/mediterranean-sun-reflection",
+      "subject": "Sun reflecting off the Mediterranean Sea off Netanya",
+      "author": "James Emery from Douglasville, United States",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_Sun_reflecting_off_Mediterranean_Sea_0510_(494341167).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-beach-elevator",
+      "subject": "Netanya beach and bay with the cliffside beach elevator",
+      "author": "Ontheway Advice",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_-_Beach_(34243087122).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/netanya-promenade-beach",
+      "subject": "Cliff-top promenade path and beach in Netanya",
+      "author": "Yuvalr",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beach_of_Netanya.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/mediterranean-sunset-waves",
+      "subject": "Sunset over Mediterranean waves off Netanya",
+      "author": "James Emery from Douglasville, United States",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netanya_Sunset_over_Mediterranean_Sea_0535_(494410343).jpg",
+      "orientation": "landscape"
+    }
+  ]
+}

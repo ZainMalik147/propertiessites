@@ -1,0 +1,501 @@
+{
+  "developers": [
+    {
+      "slug": "inmobilia",
+      "name": "Inmobilia",
+      "website": "https://www.inmobilia.mx/",
+      "summary": "A Mérida-based developer of large planned communities whose Tulum presence centres on Tulum 101, a master-planned district of residential, hospitality and mixed-use projects.",
+      "description": [
+        "Inmobilia is a real estate developer headquartered in Mérida, Yucatán, with more than three decades of activity across southern Mexico. Its portfolio spans golf communities, tourism, luxury housing, mixed-use districts and corporate space, including Yucatan Country Club and Vía Montejo in Mérida and Four Seasons Caye Chapel in Belize. The company reports more than 7.8 million square metres developed and often works through partnerships with hotel operators, architecture studios and other developers.",
+        "In Tulum, its main undertaking is Tulum 101, which the company presents as the first master-planned community of macro-lots in the destination. The plan divides land into parcels for housing, hotels and commerce, with other developers building individual projects inside it, such as SIMCA's Gran Tulum. Inmobilia also markets branded residential projects in Tulum, among them Mayaliah Tulum MGallery and Faena Residences Tulum, reflecting a focus on hospitality-linked homes."
+      ],
+      "areas": [
+        "Master-planned communities",
+        "Residential lots and macro-lots",
+        "Branded and hotel-linked residences",
+        "Mixed-use and commercial districts",
+        "Golf communities"
+      ],
+      "facts": [
+        {
+          "label": "Headquarters",
+          "value": "Mérida, Yucatán"
+        },
+        {
+          "label": "Experience",
+          "value": "30+ years (company-stated)"
+        },
+        {
+          "label": "Area developed",
+          "value": "7.8+ million m² (company-stated)"
+        },
+        {
+          "label": "Flagship in Tulum",
+          "value": "Tulum 101 master plan"
+        },
+        {
+          "label": "Presence",
+          "value": "Yucatán, Quintana Roo and Belize"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Tulum 101",
+          "location": "Tulum, Quintana Roo",
+          "type": "Master-planned community (macro-lots)",
+          "description": "A gated master plan near the beach divided into macro-lots for residential, hotel and commercial use, with underground utilities and fibre optics. It hosts several sub-projects by Inmobilia and partner developers.",
+          "url": "https://www.inmobilia.mx/tulum-101"
+        },
+        {
+          "name": "Nido by Tulum 101",
+          "location": "Tulum 101, Tulum",
+          "type": "Gated community of single-family lots",
+          "description": "A private enclave of 85 single-family lots within Tulum 101, organised around wide roads, open space and a clubhouse under the 'Jungle Nesting' concept.",
+          "url": "https://www.inmobilia.mx/tulum-101/proyecto/nido-by-tulum-101"
+        },
+        {
+          "name": "Ramia by Tulum 101",
+          "location": "Tulum 101, Tulum",
+          "type": "Residential lots",
+          "description": "A community of 71 lots of roughly 280 to 375 m² set into the natural landscape of the Tulum 101 master plan.",
+          "url": "https://www.inmobilia.mx/tulum-101/proyecto/101-ramia"
+        },
+        {
+          "name": "101 Park",
+          "location": "Tulum 101, Tulum",
+          "type": "Condominium community",
+          "description": "A 55-unit residential community inside Tulum 101 with rooftop pools and a series of themed outdoor parks.",
+          "url": "https://www.inmobilia.mx/tulum-101/proyecto/101-park"
+        },
+        {
+          "name": "Humana Tulum",
+          "location": "Tulum 101, Tulum",
+          "type": "Mixed-use (residences and hotel)",
+          "description": "A mixed-use project split between 63 residences and 45 hotel keys, each with its own amenities plus shared spaces.",
+          "url": "https://www.inmobilia.mx/tulum-101/proyecto/humana"
+        },
+        {
+          "name": "Mayaliah Tulum MGallery",
+          "location": "Tulum",
+          "type": "Branded residences and boutique hotel",
+          "description": "A jungle-set project combining 95 branded private residences with a 45-room boutique hotel under the MGallery label, with a concept drawn from Maya traditions.",
+          "url": "https://www.inmobilia.mx/en/project/mayaliah-tulum-mgallery"
+        },
+        {
+          "name": "Faena Residences Tulum",
+          "location": "Tulum",
+          "type": "Branded residences",
+          "description": "A Faena-branded community of 147 homes designed by architect Brandon Haw, using wood and chukum finishes with rooftop gardens and pools, presented on Inmobilia's site.",
+          "url": "https://www.inmobilia.mx/en/project/faena-residences-inmobilia"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/inmobilia.svg",
+        "source": "https://www.inmobilia.mx/hubfs/Mantra%20-%20Inmobilia/logo-alt.svg",
+        "background": "light",
+        "guidelines": "none found (press/news hub: https://info.inmobilia.mx/noticias)",
+        "alternate": {
+          "file": "assets/logos/inmobilia-white.svg",
+          "source": "https://www.inmobilia.mx/hubfs/Mantra%20-%20Inmobilia/inmobilia_logo.svg",
+          "background": "dark"
+        }
+      },
+      "sources": [
+        "https://www.inmobilia.mx/",
+        "https://www.inmobilia.mx/acerca-de-inmobilia",
+        "https://www.inmobilia.mx/tulum-101",
+        "https://www.inmobilia.mx/tulum-101/unozerouno",
+        "https://www.inmobilia.mx/tulum-101/nido",
+        "https://www.inmobilia.mx/tulum-101/proyecto/nido-by-tulum-101",
+        "https://www.inmobilia.mx/tulum-101/proyecto/101-ramia",
+        "https://www.inmobilia.mx/tulum-101/proyecto/101-park",
+        "https://www.inmobilia.mx/tulum-101/proyecto/humana",
+        "https://www.inmobilia.mx/tulum-101/proyecto/gran-tulum",
+        "https://www.inmobilia.mx/en/project/mayaliah-tulum-mgallery",
+        "https://www.inmobilia.mx/en/project/faena-residences-inmobilia"
+      ]
+    },
+    {
+      "slug": "simca",
+      "name": "SIMCA",
+      "website": "https://simca.mx/",
+      "summary": "A southeast-Mexico developer with residential, industrial and retail divisions, active in Tulum through condominium projects in Aldea Zamá, La Veleta and the Tulum 101 master plan.",
+      "description": [
+        "SIMCA (legal name Real Estate SIMCA SAPI de CV) is a Mexican developer working across the Yucatán Peninsula and Tabasco, with sales offices in Mérida, Playa del Carmen and Tulum. Beyond housing, it runs divisions for industrial and logistics parks, retail and business space. Its residential catalogue ranges from large lot subdivisions and golf communities around Mérida to apartment buildings near the beach in Playa del Carmen.",
+        "In Tulum, SIMCA concentrates on mid-size condominium buildings in established residential zones. Costa Caribe sits in Aldea Zamá, between the town and the beach; Gran Tulum is located inside Inmobilia's Tulum 101 master plan; and Natal is in La Veleta. Earlier Tulum projects include Querido Tulum, designed with the studio Reyes Ríos + Larraín and nominated for ArchDaily's Building of the Year, and Prana. The company also operates a vacation-rental and property-management program for owners."
+      ],
+      "areas": [
+        "Residential condominiums",
+        "Residential lot subdivisions",
+        "Industrial and logistics parks",
+        "Retail and commercial space",
+        "Property management and vacation rentals"
+      ],
+      "facts": [
+        {
+          "label": "Legal name",
+          "value": "Real Estate SIMCA SAPI de CV"
+        },
+        {
+          "label": "Sales offices",
+          "value": "Mérida, Playa del Carmen and Tulum"
+        },
+        {
+          "label": "Track record",
+          "value": "35+ projects (company-stated)"
+        },
+        {
+          "label": "Markets",
+          "value": "Yucatán, Quintana Roo and Tabasco"
+        },
+        {
+          "label": "Tulum zones",
+          "value": "Aldea Zamá, La Veleta, Tulum 101"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Costa Caribe",
+          "location": "Aldea Zamá, Tulum",
+          "type": "Condominiums",
+          "description": "A four-level building of one- and two-bedroom apartments plus 12 penthouses, located between Tulum town and the beach in Aldea Zamá.",
+          "url": "https://simca.mx/en/division/residential/development/costa-caribe-departamentos-exclusivos-en-tulum"
+        },
+        {
+          "name": "Gran Tulum",
+          "location": "Tulum 101, Tulum",
+          "type": "Condominiums",
+          "description": "Two- and three-bedroom apartments within the gated Tulum 101 master plan, with a jungle setting close to cenotes.",
+          "url": "https://simca.mx/en/division/residential/development/gran-tulum-fase-2-invierte-en-el-caribe-mexicano"
+        },
+        {
+          "name": "Natal",
+          "location": "La Veleta, Tulum",
+          "type": "Condominiums",
+          "description": "A two-bedroom apartment complex in La Veleta near Avenida Kukulkán, organised around a wellness-oriented concept with pools, yoga garden and co-working space.",
+          "url": "https://brokers.simca.mx/en/natalinfo"
+        },
+        {
+          "name": "Querido Tulum",
+          "location": "Tulum",
+          "type": "Condominiums (completed)",
+          "description": "A 38-apartment building designed by Gabriel Konzevik with Reyes Ríos + Larraín using local materials; nominated for ArchDaily's Building of the Year 2021.",
+          "url": "https://blog.simca.mx/en/take-a-close-look-at-prana-and-querido-tulum-two-of-simcas-success-stories-in-tulum"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/simca.svg",
+        "source": "https://simca.mx/assets/simca.svg",
+        "background": "dark",
+        "guidelines": "none found"
+      },
+      "sources": [
+        "https://simca.mx/",
+        "https://simca.mx/en/",
+        "https://simca.mx/en/division/residential",
+        "https://simca.mx/en/division/residential/tulum",
+        "https://simca.mx/en/real-state-in-southwest-of-mexico",
+        "https://simca.mx/en/division/residential/development/costa-caribe-departamentos-exclusivos-en-tulum",
+        "https://simca.mx/en/division/residential/development/gran-tulum-fase-2-invierte-en-el-caribe-mexicano",
+        "https://brokers.simca.mx/en/natalinfo",
+        "https://blog.simca.mx/en/take-a-close-look-at-prana-and-querido-tulum-two-of-simcas-success-stories-in-tulum",
+        "https://blog.simca.mx/en/discover-the-5-projects-driving-investment-in-tulum",
+        "https://www.inmobilia.mx/tulum-101/proyecto/gran-tulum"
+      ]
+    },
+    {
+      "slug": "tao-mexico",
+      "name": "TAO México",
+      "website": "https://taomexico.com/",
+      "summary": "A residential developer focused on resort destinations, with jungle communities in Tulum and further projects in Akumal, Puerto Aventuras and Puerto Vallarta.",
+      "description": [
+        "TAO México develops residential communities in Mexican resort destinations, chiefly the Riviera Maya, with additional activity in Puerto Vallarta and Los Cabos. The company reports more than 19 years in the market and over 23 residential communities, and it is associated with a charitable foundation, Fundación TAO. Many of its earlier developments are clustered around Akumal, within the Tulum Country Club residential complex.",
+        "Its Tulum work centres on low-rise communities set in the jungle, a few minutes by road from the town centre and the beach.TAO Tulum, in Aldea Zamá, combines apartments and penthouses with pools, a gym and a yoga deck, while Edena Tulum is a six-hectare private community of houses and flats with walking paths and shared amenities. Nearby, the company has built Sek and Naraina in Akumal and TAO Náutico on the canals of Puerto Aventuras, extending a design approach that emphasises privacy, landscaping and wellness facilities."
+      ],
+      "areas": [
+        "Residential communities in resort destinations",
+        "Jungle-set condominiums and homes",
+        "Wellness-oriented amenities",
+        "Riviera Maya, Puerto Vallarta and Los Cabos"
+      ],
+      "facts": [
+        {
+          "label": "Experience",
+          "value": "19+ years (company-stated)"
+        },
+        {
+          "label": "Communities",
+          "value": "23+ residential communities (company-stated)"
+        },
+        {
+          "label": "Presence",
+          "value": "Riviera Maya, Puerto Vallarta, Los Cabos"
+        },
+        {
+          "label": "Tulum projects",
+          "value": "TAO Tulum, Edena Tulum"
+        },
+        {
+          "label": "Foundation",
+          "value": "Fundación TAO"
+        }
+      ],
+      "projects": [
+        {
+          "name": "TAO Tulum",
+          "location": "Aldea Zamá, Tulum",
+          "type": "Condominiums and penthouses",
+          "description": "A jungle-set residential development of apartments with large terraces and penthouses with private rooftops, plus two pools, a gym, lounge and yoga deck.",
+          "url": "https://taomexico.com/properties/tao-tulum/"
+        },
+        {
+          "name": "Edena Tulum",
+          "location": "Tulum",
+          "type": "Private community (houses and apartments)",
+          "description": "A six-hectare gated community with two- and three-bedroom houses, two-bedroom flats and a commercial frontage, wrapped in jungle with paths, pool, gym and sports areas.",
+          "url": "https://taomexico.com/properties/edena-tulum/"
+        },
+        {
+          "name": "Sek Akumal by TAO",
+          "location": "Akumal (Tulum Country Club complex)",
+          "type": "Condominiums",
+          "description": "A 43-apartment building with contemporary architecture, a rooftop running track, private cinema and pool areas, about 25 minutes from Tulum.",
+          "url": "https://taomexico.com/properties/sek-akumal/"
+        },
+        {
+          "name": "Naraina Akumal",
+          "location": "Akumal",
+          "type": "Condominiums",
+          "description": "A coastal residential building a short walk from the beach, with ocean views and a rooftop pool.",
+          "url": "https://taomexico.com/properties/naraina-akumal/"
+        },
+        {
+          "name": "TAO Náutico",
+          "location": "Puerto Aventuras",
+          "type": "Waterfront condominiums",
+          "description": "Studios and two-bedroom apartments on the canals of the Puerto Aventuras complex, with a private dock and rooftop jacuzzis.",
+          "url": "https://taomexico.com/properties/tao-nautico/"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/tao-mexico.svg",
+        "source": "https://cdn.prod.website-files.com/6495c8e216195a3dba8c7780/67ae5e727c6cb8b3ebce651d_TAO_IMAGOTIPO_FULL%20COLOR.svg",
+        "background": "light",
+        "guidelines": "none found"
+      },
+      "status_note": "As of 2026-11-14 taomexico.com serves a domain-parking page (every path redirects to /lander). Content and project URLs were verified from Wayback Machine captures of June-August 2026; the project URLs are the official ones but currently do not show real content. The logo is the header asset referenced by the official site in a January 2026 capture, still live on the site's CDN; the later WordPress logo file is no longer retrievable.",
+      "sources": [
+        "https://web.archive.org/web/20260808092740/https://taomexico.com/",
+        "https://web.archive.org/web/20260610120127/https://taomexico.com/about-us/",
+        "https://web.archive.org/web/20260610121509/https://taomexico.com/properties/tao-tulum/",
+        "https://web.archive.org/web/20260610122054/https://taomexico.com/properties/edena-tulum/",
+        "https://web.archive.org/web/20260610120737/https://taomexico.com/properties/naraina-akumal/",
+        "https://web.archive.org/web/20260808100057/https://taomexico.com/properties/sek-akumal/",
+        "https://web.archive.org/web/20260808104658/https://taomexico.com/properties/tao-nautico/",
+        "https://web.archive.org/web/20260119211752/https://www.taomexico.com/"
+      ]
+    },
+    {
+      "slug": "grupo-r4",
+      "name": "Grupo R4 Yucatán",
+      "website": "https://grupor4yucatan.mx/",
+      "summary": "A Yucatán Peninsula developer with residential projects in Yucatán and Quintana Roo, including three condominium buildings in Tulum's Aldea Zamá area.",
+      "description": [
+        "Grupo R4 Yucatán is a real estate group operating in Yucatán and Quintana Roo, with work in Mérida and the Yucatán coast as well as Playa del Carmen and Tulum. Alongside development, it lists services such as architectural design, urbanisation and landscaping, construction and turnkey projects, and it works with a network of local and international brokers. The group cites more than 35 years of experience and over 35 projects.",
+        "Its Tulum portfolio is concentrated in Aldea Zamá, within the Selvazama master plan between the town and the beach. Carey Tulum Condos draws on a reinterpretation of pre-Hispanic Maya building methods; Cautiva is a 71-apartment building with a commercial area; and Déjà Vu comprises two towers with 45 residences and a wellness-oriented amenity programme. In Playa del Carmen the group has Altra Beach Condos and Olaya, while its Yucatán projects include Puerto Lindo in Chelem and Viacholul near Mérida."
+      ],
+      "areas": [
+        "Residential condominiums",
+        "Residential lots and homes",
+        "Architectural design and construction",
+        "Urbanisation and landscaping",
+        "Mixed-use development"
+      ],
+      "facts": [
+        {
+          "label": "Regions",
+          "value": "Yucatán and Quintana Roo"
+        },
+        {
+          "label": "Cities",
+          "value": "Mérida area, Playa del Carmen, Tulum"
+        },
+        {
+          "label": "Experience",
+          "value": "35+ years (company-stated)"
+        },
+        {
+          "label": "Tulum zone",
+          "value": "Aldea Zamá / Selvazama master plan"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Carey Tulum Condos",
+          "location": "Aldea Zamá (Selvazama master plan), Tulum",
+          "type": "Condominiums",
+          "description": "One- to three-bedroom apartments in a complex whose design reinterprets pre-Hispanic Maya construction, with a rooftop sky bar, spa, lap pool and gym, close to Green School Tulum.",
+          "url": "https://grupor4.com/es/carey-tulum-condos/"
+        },
+        {
+          "name": "Cautiva",
+          "location": "Aldea Zamá, Tulum",
+          "type": "Condominiums with commercial area",
+          "description": "A 71-apartment development of one- to three-bedroom units with a commercial zone, coworking space, spa and rooftop.",
+          "url": "https://grupor4.com/es/cautiva/"
+        },
+        {
+          "name": "Déjà Vu",
+          "location": "Aldea Zamá (Selvazama master plan), Tulum",
+          "type": "Residences in two towers",
+          "description": "Two towers with 45 two- and three-bedroom residences, some with private pools and lock-off layouts, plus a temazcal, yoga centre, spa and infinity pool.",
+          "url": "https://grupor4.com/es/deja-vu/"
+        },
+        {
+          "name": "Altra Beach Condos",
+          "location": "Playa del Carmen",
+          "type": "Condominiums",
+          "description": "An apartment project one block from the beach in central Playa del Carmen, with a design inspired by the bioluminescence of Holbox.",
+          "url": "https://grupor4.com/es/altra/"
+        },
+        {
+          "name": "Olaya",
+          "location": "Playa del Carmen",
+          "type": "Condominiums",
+          "description": "A six-floor building of 69 one- and two-bedroom apartments in the centre of Playa del Carmen.",
+          "url": "https://grupor4.com/es/olaya/"
+        }
+      ],
+      "logo": {
+        "file": "assets/logos/grupo-r4.png",
+        "source": "https://grupor4yucatan.mx/wp-content/uploads/2022/02/Recurso-1.png",
+        "background": "dark",
+        "guidelines": "none found"
+      },
+      "status_note": "Project pages live on the group's sister domain grupor4.com, linked from the grupor4yucatan.mx menu; they loaded via WebFetch (local curl fails there with a TLS reset). The logo is a 320x92 white PNG; no SVG was found.",
+      "sources": [
+        "https://grupor4yucatan.mx/en/",
+        "https://grupor4yucatan.mx/en/about-us/",
+        "https://grupor4yucatan.mx/en/projects/",
+        "https://grupor4.com/es/carey-tulum-condos/",
+        "https://grupor4.com/es/cautiva/",
+        "https://grupor4.com/es/deja-vu/",
+        "https://grupor4.com/es/about/"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/img/tulum-ruins-aerial",
+      "subject": "Aerial view of the Tulum archaeological site with El Castillo on the cliff above the Caribbean Sea",
+      "author": "dronepicr",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulum_mayan_ruins_(34070992724).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/tulum-coastline-aerial",
+      "subject": "Aerial view of the Tulum coastline: walled Maya site, jungle canopy and Caribbean shore",
+      "author": "Dronepicr",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulum_Maya-10.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/temple-of-the-wind-cliff",
+      "subject": "Temple of the God of the Winds on a rocky headland above a turquoise cove in Tulum",
+      "author": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulum_-_God_of_the_Winds_Temple_03.JPG",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/temple-of-the-wind-beach",
+      "subject": "Temple of the God of the Winds seen from the beach below the limestone cliffs",
+      "author": "Bernard DUPONT",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_the_God_of_the_Winds,_seen_from_the_beach_-_Tulum_Maya_site_QR_Feb_2020.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/tulum-beach-cove",
+      "subject": "Sandy cove and turquoise water framed by coastal vegetation in Tulum",
+      "author": "ROberto Carlos Román Don",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beach_in_Tulum.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/el-castillo-tulum",
+      "subject": "El Castillo, the main pyramid-temple of the Tulum archaeological site",
+      "author": "Roman Israel",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:El_castillo_lado_tulum.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/cenote-azul",
+      "subject": "Clear turquoise water and palms reflected in Cenote Azul, Riviera Maya",
+      "author": "Gen. BaTBaiLeyS",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cenote_azul_mirror.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/gran-cenote",
+      "subject": "Gran Cenote near Tulum: clear water beneath a limestone overhang and jungle",
+      "author": "dronepicr",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gran_cenote_Tulum_(20767214144).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/sian-kaan-aerial",
+      "subject": "Aerial view of jungle and lagoon in the Sian Ka'an Biosphere Reserve south of Tulum",
+      "author": "Kanché A.C.",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Reserva_de_la_Biosfera_Sian_Ka%27an.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/jungle-palms",
+      "subject": "Fan palms in the tropical forest at Muyil, near Tulum",
+      "author": "Paul Comstock from New Paltz, NY, U.S. of A.",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_palmas_@_Muyil_(3333624523).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/boutique-hotel-courtyard",
+      "subject": "Stone courtyard and stairway of a boutique hotel in Tulum's beach zone",
+      "author": "Nan Palmero from San Antonio, TX, USA",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hotel_Coqui_Coqui_Tulum_Mexico_(21037652058).jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/akumal-coastline",
+      "subject": "Aerial view of the karstic coastline and bay at Akumal, Riviera Maya",
+      "author": "Branko for Woods Hole Coastal and Marine Science Center, United States Geologic Survey",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Karstic_coastline_Akumal_Q.R._by_branko.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/jungle-architecture",
+      "subject": "Timber pavilion set among jungle trees on the Tulum beach road",
+      "author": "Flickr user paulk",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Restaurante_ARCA.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "file": "assets/img/avenida-tulum",
+      "subject": "Avenida Tulum, the main avenue through Tulum town",
+      "author": "edenpictures",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Avenida_Tulum.jpg",
+      "orientation": "landscape"
+    }
+  ]
+}

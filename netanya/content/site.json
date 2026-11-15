@@ -1,0 +1,41 @@
+{
+  "name": "Netanya Properties",
+  "url": "https://www.netanya-properties.com",
+  "lang": "en",
+  "dir": "ltr",
+  "city": "Netanya",
+  "cityCountry": "Israel",
+  "description": "An independent guide to established real estate developers active in Netanya, Israel — their backgrounds, areas of activity and official websites.",
+  "themeColor": "#0B1F38",
+  "contactEmail": "editor@netanya-properties.com",
+  "operator": "Netanya Properties",
+  "gtmId": "",
+  "ga4Id": "",
+  "verification": { "google": "", "bing": "" },
+  "indexNowKey": "a3d9e1f47c2b4e8d9f0a6b5c2e7d1f93",
+  "maxAdvertisers": 8,
+  "outboundUtm": { "utm_source": "netanya-properties", "utm_medium": "referral", "utm_campaign": "developer-guide" },
+  "languages": [
+    { "code": "en", "enabled": true, "dir": "ltr" },
+    { "code": "he", "enabled": false, "dir": "rtl" },
+    { "code": "fr", "enabled": false, "dir": "ltr" }
+  ],
+  "legal": { "jurisdiction": "IL", "retention": "14 months", "updated": "2026-11-14", "accessibility": true, "accessibilityContact": "the site editor" },
+  "heroImage": "assets/img/netanya-cliffs-aerial",
+  "secondImage": "assets/img/netanya-sunset-sea",
+  "marquee": ["Mediterranean coastline", "Urban renewal", "Park HaYam", "Residential towers", "Sharon Plain", "Sea-view living"],
+  "hero": {
+    "eyebrow": "Netanya · Mediterranean Coast · Israel",
+    "title": "The Developers Shaping Netanya",
+    "subtitle": "Explore four established real estate developers contributing to Netanya's evolving residential landscape.",
+    "button": "Explore the Developers"
+  },
+  "intro": "An independent guide to established real estate developers active in Netanya, Israel. Discover their backgrounds, areas of activity, and official websites.",
+  "introMore": "From new towers above the cliffs of Park HaYam to large-scale urban renewal in established neighbourhoods, Netanya is one of the most active residential markets on Israel's coast. This guide introduces some of the companies behind that change — in their own context, in plain language, and with a direct link to each developer's official website.",
+  "aboutShort": "Netanya Properties is an independent informational resource based on publicly available information. We are not a licensed real estate broker, we don't sell or market property, and we are not officially affiliated with, sponsored by, or endorsed by any of the companies featured.",
+  "footerNote": "An independent editorial review of the developers shaping Netanya's residential landscape.",
+  "seo": {
+    "homeTitle": "Real Estate Developers in Netanya, Israel — Independent Guide | Netanya Properties",
+    "homeDescription": "Independent guide to residential developers in Netanya: Azorim, Aura Israel, Africa Israel Residences and Ashtrom Residences — backgrounds, projects and official websites."
+  }
+}

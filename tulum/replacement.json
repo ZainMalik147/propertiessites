@@ -1,0 +1,99 @@
+{
+  "slug": "grupo-emerita",
+  "name": "Grupo Emérita",
+  "website": "https://www.grupoemerita.com/",
+  "summary": "A Mérida-rooted developer founded in 2014 that builds planned communities, condominiums and lot subdivisions in Tulum, Playa del Carmen and Valladolid.",
+  "description": [
+    "Grupo Emérita is a Mexican real estate developer founded in 2014, with origins in Mérida and offices in Playa del Carmen, Tulum and Valladolid. The company traces its background to an earlier generation involved in creating Aldea Zamá in Tulum and Yucatan Country Club in Mérida. It reports more than 20 completed residential developments and runs its own construction company, handling projects from design through delivery. Its catalogue spans residential and commercial lots, houses and apartment buildings.",
+    "In Tulum the company works at two scales. Kaybé is a gated master plan of single-family lots and macro-lots designed by the architecture studio Macías Peredo, with a clubhouse and a private sensory park; inside it sit Junglar, a group of eight townhouses, and Villa Kaybé, a set of four-bedroom villas. In Aldea Zamá the firm has built mid-size condominium projects such as Constelada and Nhoa, while Trébola, in the newer area toward the airport bypass, offers serviced residential and commercial lots."
+  ],
+  "areas": [
+    "Master-planned communities",
+    "Residential and commercial lots",
+    "Condominium buildings",
+    "Villas and townhouses",
+    "In-house construction"
+  ],
+  "facts": [
+    {
+      "label": "Founded",
+      "value": "2014 (company-stated)"
+    },
+    {
+      "label": "Origin",
+      "value": "Mérida, Yucatán"
+    },
+    {
+      "label": "Offices",
+      "value": "Playa del Carmen, Tulum and Valladolid"
+    },
+    {
+      "label": "Track record",
+      "value": "20+ completed developments (company-stated)"
+    },
+    {
+      "label": "Tulum zones",
+      "value": "Aldea Zamá, Kaybé, Trébola"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kaybé",
+      "location": "Tulum",
+      "type": "Gated master-planned community (lots and macro-lots)",
+      "description": "A gated community of single-family lots from 240 m² and macro-lots for vertical projects, designed by Macías Peredo with references to traditional Maya huts. Shared facilities include a clubhouse, semi-Olympic pool, padel courts and a private multisensory park.",
+      "url": "https://www.grupoemerita.com/en/desarrollos/kaybe"
+    },
+    {
+      "name": "Junglar",
+      "location": "Kaybé, Tulum",
+      "type": "Townhouses",
+      "description": "Eight two- and three-level townhouses with private pools and rooftops inside the Kaybé community, designed by Macías Peredo.",
+      "url": "https://www.grupoemerita.com/en/desarrollos/junglar"
+    },
+    {
+      "name": "Villa Kaybé",
+      "location": "Kaybé, Tulum",
+      "type": "Villas",
+      "description": "A group of 12 detached two-level villas with four bedrooms, private pool and garden, set in the jungle within Kaybé.",
+      "url": "https://www.grupoemerita.com/en/desarrollos/villa-kaybe"
+    },
+    {
+      "name": "Constelada",
+      "location": "Aldea Zamá, Tulum",
+      "type": "Condominiums and penthouses",
+      "description": "A 54-unit building of studios, one- to three-bedroom apartments and penthouses, many with a private pool or jacuzzi, plus ground-floor and rooftop pools, gym, yoga area and coworking space.",
+      "url": "https://www.grupoemerita.com/en/desarrollos/constelada"
+    },
+    {
+      "name": "Nhoa",
+      "location": "Aldea Zamá, Tulum",
+      "type": "Condominiums",
+      "description": "A boutique building of 36 two-bedroom lock-off apartments with a pool, gym, yoga terrace and on-site restaurant.",
+      "url": "https://www.grupoemerita.com/en/desarrollos/nhoa"
+    },
+    {
+      "name": "Trébola",
+      "location": "Tulum (near the airport bypass)",
+      "type": "Residential and commercial lots",
+      "description": "A phased subdivision of lots from 123 to 280 m² with paved streets, underground ducting, controlled access and a park of more than 5,000 m².",
+      "url": "https://www.grupoemerita.com/en/desarrollos/trebola"
+    }
+  ],
+  "logo": {
+    "file": "assets/logos/grupo-emerita.webp",
+    "source": "https://cdn.prod.website-files.com/688478dccbeba13cdede033b/6927887a7cb81dd9d8e76b7d_Logo_GrupoEmerita.webp",
+    "background": "light",
+    "guidelines": "none found"
+  },
+  "sources": [
+    "https://www.grupoemerita.com/en",
+    "https://www.grupoemerita.com/en/nosotros",
+    "https://www.grupoemerita.com/en/desarrollos/kaybe",
+    "https://www.grupoemerita.com/en/desarrollos/junglar",
+    "https://www.grupoemerita.com/en/desarrollos/villa-kaybe",
+    "https://www.grupoemerita.com/en/desarrollos/constelada",
+    "https://www.grupoemerita.com/desarrollos/nhoa",
+    "https://www.grupoemerita.com/en/desarrollos/trebola"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Tulum Properties",
+  "url": "https://www.tulum-properties.com",
+  "lang": "en",
+  "dir": "ltr",
+  "city": "Tulum",
+  "cityCountry": "Mexico",
+  "description": "An independent guide to established real estate developers active in Tulum, Mexico — their backgrounds, areas of activity and official websites.",
+  "themeColor": "#16342A",
+  "contactEmail": "editor@tulum-properties.com",
+  "operator": "Tulum Properties",
+  "gtmId": "",
+  "ga4Id": "",
+  "verification": {
+    "google": "",
+    "bing": ""
+  },
+  "indexNowKey": "6b1f2c9e4d8a4f0b9c3e7a51d2f84e60",
+  "maxAdvertisers": 8,
+  "outboundUtm": {
+    "utm_source": "tulum-properties",
+    "utm_medium": "referral",
+    "utm_campaign": "developer-guide"
+  },
+  "languages": [
+    {
+      "code": "en",
+      "enabled": true
+    }
+  ],
+  "legal": {
+    "jurisdiction": "MX",
+    "retention": "14 months",
+    "updated": "2026-11-14"
+  },
+  "heroImage": "assets/img/tulum-ruins-aerial",
+  "galleryImages": [
+    "assets/img/temple-of-the-wind-cliff",
+    "assets/img/cenote-azul",
+    "assets/img/tulum-coastline-aerial",
+    "assets/img/el-castillo-tulum",
+    "assets/img/sian-kaan-aerial",
+    "assets/img/gran-cenote",
+    "assets/img/akumal-coastline"
+  ],
+  "hero": {
+    "eyebrow": "Tulum · Riviera Maya · Mexico",
+    "title": "The Developers Shaping Tulum",
+    "subtitle": "Explore four established real estate developers contributing to Tulum's evolving residential landscape.",
+    "button": "Explore the Developers"
+  },
+  "intro": "An independent guide to established real estate developers active in Tulum, Mexico. Discover their backgrounds, areas of activity, and official websites.",
+  "aboutShort": "Tulum Properties is an independent informational resource based on publicly available information. We are not a real estate agency, we don't sell property, and we are not officially affiliated with, sponsored by, or endorsed by any of the companies featured. Every profile links straight to the developer's own website so you can continue your research at the source.",
+  "footerNote": "An independent editorial guide to the developers shaping Tulum's residential landscape.",
+  "seo": {
+    "homeTitle": "Real Estate Developers in Tulum, Mexico — Independent Guide | Tulum Properties",
+    "homeDescription": "Independent guide to established real estate developers in Tulum, Mexico: Inmobilia, SIMCA, TAO México and Grupo R4 — backgrounds, projects and official websites."
+  }
+}

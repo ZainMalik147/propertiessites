@@ -1,0 +1,99 @@
+# Decap CMS — edits the same JSON files the static build reads.
+# Saving in the CMS commits to the Git repo; Netlify (or any CI) rebuilds the site automatically.
+backend:
+  name: git-gateway      # Netlify Identity + Git Gateway. For GitHub OAuth use: name: github, repo: OWNER/REPO
+  branch: main
+site_url: https://www.netanya-properties.com
+media_folder: "netanya/assets/img"
+public_folder: "/assets/img"
+collections:
+  - name: settings
+    label: Site settings
+    files:
+      - name: site
+        label: Site settings, homepage copy & analytics IDs
+        file: "netanya/content/site.json"
+        fields:
+          - { name: name, label: Site name, widget: string }
+          - { name: url, label: Live URL (https://…), widget: string }
+          - { name: contactEmail, label: Contact email, widget: string }
+          - { name: gtmId, label: Google Tag Manager ID (GTM-XXXX), widget: string, required: false }
+          - { name: ga4Id, label: "GA4 Measurement ID (G-XXXX) — only if not using GTM", widget: string, required: false }
+          - name: verification
+            label: Search engine verification
+            widget: object
+            fields:
+              - { name: google, label: Google Search Console meta code, widget: string, required: false }
+              - { name: bing, label: Bing Webmaster meta code, widget: string, required: false }
+          - { name: heroImage, label: "Hero photo (path without -1920.webp)", widget: string, required: false }
+          - name: hero
+            label: Hero
+            widget: object
+            fields:
+              - { name: eyebrow, widget: string }
+              - { name: title, widget: string }
+              - { name: subtitle, widget: text }
+              - { name: button, widget: string }
+          - { name: intro, label: Introduction, widget: text }
+          - { name: aboutShort, label: About the guide (homepage), widget: text }
+          - { name: footerNote, label: Footer note, widget: text }
+          - name: seo
+            label: Homepage SEO
+            widget: object
+            fields:
+              - { name: homeTitle, label: Meta title, widget: string }
+              - { name: homeDescription, label: Meta description, widget: text }
+          - { name: maxAdvertisers, label: Max sponsored listings, widget: number, default: 8 }
+  - name: directory
+    label: Developers
+    files:
+      - name: developers
+        label: Developer profiles & photo credits
+        file: "netanya/content/developers.json"
+        fields:
+          - name: developers
+            label: Developers
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { name: slug, label: "URL slug (/developers/slug/)", widget: string }
+              - { name: name, label: Name, widget: string }
+              - { name: published, label: Published, widget: boolean, default: true }
+              - { name: order, label: Display order, widget: number, required: false }
+              - { name: listingType, label: Listing type, widget: select, options: [editorial, sponsored], default: editorial }
+              - { name: website, label: Official website, widget: string }
+              - { name: summary, label: One-line summary, widget: text }
+              - { name: seoDescription, label: Meta description (optional), widget: text, required: false }
+              - { name: description, label: Description paragraphs, widget: list, field: { name: p, label: Paragraph, widget: text } }
+              - { name: areas, label: Key areas of activity, widget: list }
+              - { name: facts, label: Facts, widget: list, fields: [ { name: label, widget: string }, { name: value, widget: string } ] }
+              - name: projects
+                label: Projects / communities
+                widget: list
+                summary: "{{fields.name}}"
+                fields:
+                  - { name: name, widget: string }
+                  - { name: location, widget: string, required: false }
+                  - { name: type, widget: string, required: false }
+                  - { name: description, widget: text, required: false }
+                  - { name: url, label: Official project URL, widget: string, required: false }
+              - name: logo
+                label: Logo
+                widget: object
+                fields:
+                  - { name: file, label: "Logo file path (assets/logos/…)", widget: string }
+                  - { name: background, label: Designed for, widget: select, options: [light, dark, mid] }
+                  - { name: source, label: Source URL, widget: string, required: false }
+                  - { name: guidelines, label: Brand guidelines URL, widget: string, required: false }
+              - { name: images, label: "Photo paths (assets/img/name)", widget: list, required: false }
+              - { name: sources, label: Sources, widget: list }
+          - name: images
+            label: Photo library & credits
+            widget: list
+            summary: "{{fields.subject}}"
+            fields:
+              - { name: file, label: "Path (assets/img/name, files name-960.webp + name-1920.webp)", widget: string }
+              - { name: subject, label: Caption / alt text, widget: string }
+              - { name: author, widget: string }
+              - { name: license, widget: string }
+              - { name: source, label: Source page, widget: string }

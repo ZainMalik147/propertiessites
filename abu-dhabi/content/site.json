@@ -1,0 +1,38 @@
+{
+  "name": "Abu Dhabi Properties",
+  "url": "https://www.abudhabi-properties.com",
+  "lang": "en",
+  "dir": "ltr",
+  "city": "Abu Dhabi",
+  "cityCountry": "United Arab Emirates",
+  "description": "An independent guide to established real estate developers active in Abu Dhabi — their backgrounds, areas of activity and official websites.",
+  "themeColor": "#0A0A0B",
+  "contactEmail": "editor@abudhabi-properties.com",
+  "operator": "Abu Dhabi Properties",
+  "gtmId": "",
+  "ga4Id": "",
+  "verification": { "google": "", "bing": "" },
+  "indexNowKey": "e8c4b2a17f3d4c6e9b0a5d2f8e1c7a46",
+  "maxAdvertisers": 8,
+  "outboundUtm": { "utm_source": "abudhabi-properties", "utm_medium": "referral", "utm_campaign": "developer-guide" },
+  "languages": [
+    { "code": "en", "enabled": true, "dir": "ltr" },
+    { "code": "ar", "enabled": false, "dir": "rtl" }
+  ],
+  "legal": { "jurisdiction": "AE", "retention": "14 months", "updated": "2026-11-14" },
+  "heroImage": "assets/img/abu-dhabi-skyline-night",
+  "secondImage": "assets/img/louvre-abu-dhabi-water",
+  "hero": {
+    "eyebrow": "Abu Dhabi · United Arab Emirates",
+    "title": "The Developers Shaping Abu Dhabi",
+    "subtitle": "Explore four established property developers contributing to Abu Dhabi's evolving residential landscape.",
+    "button": "Explore the Developers"
+  },
+  "intro": "An independent guide to established real estate developers active in Abu Dhabi. Discover their backgrounds, areas of activity, and official websites.",
+  "aboutShort": "Abu Dhabi Properties is an independent informational resource based on publicly available information. We are not a real estate broker or agency, we don't sell property, and we are not officially affiliated with, sponsored by, or endorsed by any of the companies featured. Each profile links directly to the developer's own website.",
+  "footerNote": "An independent editorial index of the developers shaping Abu Dhabi's residential landscape.",
+  "seo": {
+    "homeTitle": "Property Developers in Abu Dhabi — Independent Guide | Abu Dhabi Properties",
+    "homeDescription": "Independent guide to established property developers in Abu Dhabi: Aldar, Modon, Bloom Holding and Reportage Group — backgrounds, communities and official websites."
+  }
+}
